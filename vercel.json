@@ -4,8 +4,8 @@
     { "src": "*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/fahad", "dest": "/fahad.js" },
-    { "src": "/fahadpass", "dest": "/fahadpass.js" },
+    { "src": "/zubair", "dest": "/zubair.js" },
+    { "src": "/zubairpass", "dest": "/zubairpass.js" },
     { "src": "/ayan", "dest": "/ayan.js" },
     { "src": "/ayanpass", "dest": "/ayanpass.js" },
     { "src": "/laraib", "dest": "/laraib.js" },
@@ -13,6 +13,6 @@
     { "src": "/rashid2", "dest": "/rashid2.js" }, 
     { "src": "/rashid2pass", "dest": "/rashid2pass.js" },
     { "src": "/warispass", "dest": "/warispass.js" },
-    { "src": "/fahadpass", "dest": "/fahadpass.js" }
+    { "src": "/zubairpass", "dest": "/zubairpass.js" }
   ]
 }
